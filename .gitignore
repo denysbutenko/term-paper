@@ -1,0 +1,6 @@
+.idea
+.svn
+.venv
+*.pyc
+*~
+.pip.cache/*
