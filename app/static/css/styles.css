@@ -1,0 +1,20 @@
+body {
+    padding: 30px;
+}
+
+.navbar {
+    margin-bottom: 30px;
+}
+
+.with-icon {
+    padding-left: 10px;
+    color: #000;
+    opacity: .5;
+
+}
+
+.with-icon:hover {
+    text-decoration: none;
+    color: #000;
+    opacity: .8;
+}
